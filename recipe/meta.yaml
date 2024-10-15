@@ -26,6 +26,7 @@ requirements:
     - libprotobuf
     - pybind11 >=2.5.0
     - wheel >=0.34.2
+    - setuptools
     - pip
   run:
     - python
